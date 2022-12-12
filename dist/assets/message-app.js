@@ -631,8 +631,8 @@
   });
   _exports.default = void 0;
   var _default = (0, _templateFactory.createTemplateFactory)({
-    "id": "OPAf2Tf/",
-    "block": "[[[10,0],[14,0,\"messages\"],[12],[1,\"\\n    \"],[8,[39,0],null,null,null],[1,\"\\n    \"],[8,[39,1],null,null,null],[1,\"\\n    \"],[8,[39,2],null,null,null],[1,\"\\n\"],[13]],[],false,[\"received-message\",\"sent-message\",\"new-message-input\"]]",
+    "id": "eAzMDCvH",
+    "block": "[[[10,0],[14,0,\"messages\"],[12],[1,\"\\n    \"],[8,[39,0],null,null,null],[1,\"\\n    \"],[8,[39,1],null,null,null],[1,\"\\n    \"],[8,[39,2],null,null,null],[1,\"\\n\"],[13],[1,\"\\n\"],[10,2],[12],[1,\"Hello\"],[13]],[],false,[\"received-message\",\"sent-message\",\"new-message-input\"]]",
     "moduleName": "message-app/templates/application.hbs",
     "isStrictMode": false
   });
@@ -713,7 +713,7 @@ catch(err) {
 
 ;
           if (!runningTests) {
-            require("message-app/app")["default"].create({"name":"message-app","version":"0.0.0+3f37e7a9"});
+            require("message-app/app")["default"].create({"name":"message-app","version":"0.0.0+c3fdf2f7"});
           }
         
 //# sourceMappingURL=message-app.map
